@@ -38,3 +38,4 @@ test ShapeNet
 python runner_shapenet.py --test --weights=xxx.pth
 ```
 # our result
+ourresult.zip
